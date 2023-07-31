@@ -16,10 +16,11 @@ jobs:
     - name: Archive Release
       uses: thedoctor0/zip-release@master
       with:
+        token: ${{ secrets.GITHUB_TOKEN }}
         filename: 'release.zip'
         exclusions: '*.git* /*node_modules/* .editorconfig'
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "new pack"
+        git commit -m "Updated release.zip"
         git push --force
