@@ -22,5 +22,5 @@ jobs:
     - name: push changes to remote
       run: |
         git add -A
-        git commit -m "new pack"
+        git commit -m "Updated release.zip"
         git push --force
