@@ -1,0 +1,12 @@
+{
+    "parent": "item/gui/3x3",
+    "textures": {
+        "layer0": "beacon/gui/tutorial"
+    },
+    "display": {
+        "gui": {
+            "translation": [-18,0,0],
+            "scale": [3,3,3]
+        }
+    }
+}

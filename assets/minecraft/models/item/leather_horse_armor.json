@@ -1,0 +1,13 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/leather_horse_armor"
+  },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/trash-can"},
+    { "predicate": { "custom_model_data": 2 }, "model": "custom:item/cat-ears"},
+	{ "predicate": { "custom_model_data": 3 }, "model": "custom:item/bear-ears"},
+	{ "predicate": { "custom_model_data": 4 }, "model": "custom:item/bunny-ears"},
+	{ "predicate": { "custom_model_data": 5 }, "model": "custom:item/bear-ears-snowy"}
+  ]
+}

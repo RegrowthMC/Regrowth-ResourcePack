@@ -1,0 +1,8 @@
+{
+    "providers":[
+        {"file":"beacon/beacons-quest-banner.png","chars":["\ue238"],"height":33,"ascent":33,"type":"bitmap"},
+        {"file":"beacon/2.png","chars":["\ue239"],"height":52,"ascent":33,"type":"bitmap"},
+        {"file":"beacon/3.png","chars":["\ue240"],"height":52,"ascent":33,"type":"bitmap"},
+        {"file":"beacon/ui/regrowth.png","chars":["\ue241"],"height":25,"ascent":20,"type":"bitmap"}
+    ]    
+}
