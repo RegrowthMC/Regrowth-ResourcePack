@@ -4,8 +4,8 @@
         "layer0": "minecraft:item/slime_ball"
     },
     "overrides": [
-		{ "predicate": {"custom_model_data": 103}, "model": "item/slime_in_a_bucket" },
-		{ "predicate": {"custom_model_data": 104}, "model": "item/slime_in_a_bucket_excited" }
+		{ "predicate": {"custom_model_data": 103}, "model": "item/custom/slime_in_a_bucket" },
+		{ "predicate": {"custom_model_data": 104}, "model": "item/custom/slime_in_a_bucket_excited" }
 	]
 
 }
