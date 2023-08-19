@@ -1,8 +1,5 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:block/conduit"
-    },
+    "parent": "minecraft:block/conduit",
     "overrides": [
         { "predicate": { "custom_model_data": 1000 }, "model": "item/custom/invisible_item"}
 	]

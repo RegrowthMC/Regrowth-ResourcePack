@@ -1,10 +1,6 @@
 {
-    "parent": "item/generated",
-    "textures": {
-        "layer0": "minecraft:block/lime_wool"
-    },
+    "parent": "minecraft:block/lime_wool",
     "overrides": [
         { "predicate": { "custom_model_data": 1 }, "model": "item/gui/buttons/button_pets_on"}
 	]
-
 }
