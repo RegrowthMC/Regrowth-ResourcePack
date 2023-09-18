@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:beacon/item/level_up",
-		"particle": "minecraft:beacon/item/level_up"
+		"0": "beacon/item/level_up",
+		"particle": "beacon/item/level_up"
 	},
 	"elements": [
 		{
@@ -341,9 +341,9 @@
 			"translation": [0, 3.75, 0]
 		},
 		"gui": {
-			"rotation": [-20, 180, 0],
-			"translation": [-0.25, 0, 0],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [0, 0, 180],
+			"translation": [-0.25, -0.25, 0],
+			"scale": [0.65, 0.65, 0.65]
 		}
 	},
 	"groups": [
