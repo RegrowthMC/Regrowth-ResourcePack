@@ -16,6 +16,7 @@
         {"file":"beacon/ui/story-num-8.png","chars":["\ue228"],"height":25,"ascent":20,"type":"bitmap"},
         {"file":"beacon/ui/story-num-9.png","chars":["\ue229"],"height":25,"ascent":20,"type":"bitmap"},
         {"file":"beacon/gui/follower_pets.png","chars":["\ue230"],"height":256,"ascent":13,"type":"bitmap"},
+        {"file":"beacon/gui/biome_bees.png","chars":["\ue301"],"height":256,"ascent":13,"type":"bitmap"},
         {"file":"beacon/gui/pixel.png","chars":["\ue231"],"height":-3,"ascent":-2000,"type":"bitmap"}
     ]    
 }
