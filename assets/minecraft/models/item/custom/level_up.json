@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:beacon/item/level_up",
-		"particle": "minecraft:beacon/item/level_up"
+		"0": "minecraft:beacon/item/level-up",
+		"particle": "minecraft:beacon/item/level-up"
 	},
 	"elements": [
 		{
@@ -318,7 +318,34 @@
 			}
 		}
 	],
-	"display": {},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.25, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [0, 7.25, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-9.25, 8.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 180, 0],
+			"translation": [-9.25, 8.25, 0],
+			"scale": [0.75, 0.75, 0.75]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0]
+		},
+		"gui": {
+			"rotation": [-20, 180, 0],
+			"translation": [-0.25, 0, 0],
+			"scale": [0.6, 0.6, 0.6]
+		}
+	},
 	"groups": [
 		{
 			"name": "Level Up",
