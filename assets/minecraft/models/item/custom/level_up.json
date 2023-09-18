@@ -1,8 +1,8 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "minecraft:beacon/item/level-up",
-		"particle": "minecraft:beacon/item/level-up"
+		"0": "minecraft:beacon/item/level_up",
+		"particle": "minecraft:beacon/item/level_up"
 	},
 	"elements": [
 		{
