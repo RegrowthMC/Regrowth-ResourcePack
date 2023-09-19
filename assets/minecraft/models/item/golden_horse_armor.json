@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/golden_horse_armor"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "minecraft:item/custom/duck_floatie"}
+    { "predicate": { "custom_model_data": 1 }, "model": "minecraft:item/custom/ducky_floatie"}
   ]
 }
