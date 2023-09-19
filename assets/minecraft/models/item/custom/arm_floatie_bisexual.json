@@ -1,0 +1,59 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "beacon/item/arm_floatie_bisexual",
+		"particle": "beacon/item/arm_floatie_bisexual"
+	},
+	"elements": [
+		{
+			"from": [5.5, 5.5, 5.5],
+			"to": [10.5, 10.5, 10.5],
+			"rotation": {"angle": 0, "axis": "y", "origin": [-6, -8, 0]},
+			"faces": {
+				"north": {"uv": [0, 0, 5, 5], "texture": "#0"},
+				"east": {"uv": [0, 5, 5, 10], "texture": "#0"},
+				"south": {"uv": [5, 0, 10, 5], "texture": "#0"},
+				"west": {"uv": [5, 5, 10, 10], "texture": "#0"},
+				"up": {"uv": [5, 15, 0, 10], "texture": "#0"},
+				"down": {"uv": [15, 0, 10, 5], "texture": "#0"}
+			}
+		}
+	],
+	"gui_light": "front",
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -2, 4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [91, 0, 0],
+			"translation": [0, -2, 4.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [180, 0, 0],
+			"translation": [1.25, 2, 0],
+			"scale": [1, 1, 0.28]
+		},
+		"firstperson_lefthand": {
+			"rotation": [180, 0, 0],
+			"translation": [1.25, 2, 0],
+			"scale": [1, 1, 0.28]
+		},
+		"gui": {
+			"rotation": [20, 10, 0],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"head": {
+			"rotation": [0, 14, -11],
+			"translation": [4, 8.25, -2.25]
+		}
+	},
+	"groups": [
+		{
+			"name": "gay_floatie",
+			"origin": [2, 0, 8],
+			"color": 0,
+			"children": [0]
+		}
+	]
+}
