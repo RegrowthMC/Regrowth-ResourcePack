@@ -1,6 +1,0 @@
-{
-    "parent": "minecraft:block/conduit",
-    "overrides": [
-        { "predicate": { "custom_model_data": 1000 }, "model": "item/custom/invisible_item"}
-	]
-}
