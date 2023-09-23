@@ -6,6 +6,6 @@
   "overrides": [
     { "predicate": { "custom_model_data": 1 }, "model": "item/gui/tutorial"},
     { "predicate": { "custom_model_data": 2 }, "model": "item/gui/tutorial_hotbar"},
-    { "predicate": { "custom_model_data": 3 }, "model": "item/custom/invisible_item"}
+    { "predicate": { "custom_model_data": 1000 }, "model": "item/custom/invisible_item"}
   ]
 }
