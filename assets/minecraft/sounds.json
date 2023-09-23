@@ -1,0 +1,14 @@
+{
+  "beacon.coins.coin_dispense": {
+    "category": "player",
+    "sounds": [
+      "beacon/coins/coin_dispense"
+    ]
+  },
+  "beacon.coins.coin_movement": {
+    "category": "player",
+    "sounds": [
+      "beacon/coins/coin_movement"
+    ]
+  }
+}
