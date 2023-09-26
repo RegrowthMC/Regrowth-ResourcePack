@@ -1,0 +1,51 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "beacon/item/vr_headset",
+		"particle": "beacon/item/vr_headset"
+	},
+	"elements": [
+		{
+			"from": [3.5, 6, 3.5],
+			"to": [12.5, 10, 9],
+			"rotation": {"angle": 0, "axis": "y", "origin": [0, 4, 0]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 9, 2], "texture": "#1"},
+				"east": {"uv": [4.5, 4, 7.5, 6], "texture": "#1"},
+				"south": {"uv": [4.5, 2, 9, 4], "texture": "#1"},
+				"west": {"uv": [0, 6, 3, 8], "texture": "#1"},
+				"up": {"uv": [4.5, 3, 0, 0], "texture": "#1"},
+				"down": {"uv": [4.5, 3, 0, 6], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, -1.75, 0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, -1.75, 0.75],
+			"scale": [0.6, 0.6, 0.6]
+		},
+		"firstperson_righthand": {
+			"translation": [0, 1.75, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [0, 1.75, 0]
+		},
+		"gui": {
+			"rotation": [26, -145, 0],
+			"translation": [-1.25, 0, 0],
+			"scale": [1.25, 1.25, 1.25]
+		},
+		"head": {
+			"translation": [0, -1.75, 0],
+			"scale": [1.7, 1.7, 1.7]
+		},
+		"fixed": {
+			"translation": [0, 0, 2.5]
+		}
+	}
+}

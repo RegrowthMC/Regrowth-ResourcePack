@@ -8,6 +8,8 @@
     { "predicate": { "custom_model_data": 2 }, "model": "custom:item/cat-ears"},
 	{ "predicate": { "custom_model_data": 3 }, "model": "custom:item/bear-ears"},
 	{ "predicate": { "custom_model_data": 4 }, "model": "custom:item/bunny-ears"},
-	{ "predicate": { "custom_model_data": 5 }, "model": "custom:item/bear-ears-snowy"}
+	{ "predicate": { "custom_model_data": 5 }, "model": "custom:item/bear-ears-snowy"},
+    { "predicate": { "custom_model_data": 6 }, "model": "minecraft:item/custom/straw_hat"},
+    { "predicate": { "custom_model_data": 7 }, "model": "minecraft:item/custom/vr_controller"}
   ]
 }
