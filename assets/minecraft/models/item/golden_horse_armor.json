@@ -17,6 +17,9 @@
     { "predicate": { "custom_model_data": 11 }, "model": "minecraft:item/custom/vr_headset"},
     { "predicate": { "custom_model_data": 12 }, "model": "minecraft:item/custom/pitchfork"},
     { "predicate": { "custom_model_data": 13 }, "model": "minecraft:item/custom/large_pitchfork"},
-    { "predicate": { "custom_model_data": 14 }, "model": "minecraft:item/custom/very_large_pitchfork"}
+    { "predicate": { "custom_model_data": 14 }, "model": "minecraft:item/custom/very_large_pitchfork"},
+    { "predicate": { "custom_model_data": 200 }, "model": "minecraft:item/custom/shoulder_pet_armadillo"},
+    { "predicate": { "custom_model_data": 201 }, "model": "minecraft:item/custom/shoulder_pet_penguin"},
+    { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/custom/shoulder_pet_diplodocus"}
   ]
 }
