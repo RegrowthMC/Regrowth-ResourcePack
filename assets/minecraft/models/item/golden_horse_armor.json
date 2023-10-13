@@ -20,6 +20,7 @@
     { "predicate": { "custom_model_data": 14 }, "model": "minecraft:item/custom/very_large_pitchfork"},
     { "predicate": { "custom_model_data": 200 }, "model": "minecraft:item/custom/shoulder_pet_armadillo"},
     { "predicate": { "custom_model_data": 201 }, "model": "minecraft:item/custom/shoulder_pet_penguin"},
-    { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/custom/shoulder_pet_diplodocus"}
+    { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/custom/shoulder_pet_diplodocus"},
+    { "predicate": { "custom_model_data": 300 }, "model": "minecraft:item/custom/chess_board"}
   ]
 }
