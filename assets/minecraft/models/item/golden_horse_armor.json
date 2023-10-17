@@ -21,6 +21,11 @@
     { "predicate": { "custom_model_data": 200 }, "model": "minecraft:item/custom/shoulder_pet_armadillo"},
     { "predicate": { "custom_model_data": 201 }, "model": "minecraft:item/custom/shoulder_pet_penguin"},
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/custom/shoulder_pet_diplodocus"},
+    { "predicate": { "custom_model_data": 203 }, "model": "minecraft:item/custom/shoulder_pet_sniffer"},
+    { "predicate": { "custom_model_data": 204 }, "model": "minecraft:item/custom/shoulder_pet_allay"},
+    { "predicate": { "custom_model_data": 205 }, "model": "minecraft:item/custom/shoulder_pet_skeleton"},
+    { "predicate": { "custom_model_data": 206 }, "model": "minecraft:item/custom/shoulder_pet_halloween_skeleton"},
+    { "predicate": { "custom_model_data": 207 }, "model": "minecraft:item/custom/shoulder_pet_glow_squid"},
     { "predicate": { "custom_model_data": 300 }, "model": "minecraft:item/custom/chess_board"}
   ]
 }
