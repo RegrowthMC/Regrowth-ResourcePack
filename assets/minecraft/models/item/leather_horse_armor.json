@@ -15,6 +15,7 @@
     { "predicate": { "custom_model_data": 106 }, "model": "minecraft:item/custom/top_hat_long"},
     { "predicate": { "custom_model_data": 202 }, "model": "minecraft:item/custom/shoulder_pet_diplodocus"},
     { "predicate": { "custom_model_data": 203 }, "model": "minecraft:item/custom/shoulder_pet_briar"},
+    { "predicate": { "custom_model_data": 204 }, "model": "minecraft:item/custom/shoulder_pet_briar_halloween"},
     { "predicate": { "custom_model_data": 300 }, "model": "minecraft:item/custom/gadgets/gadget_pnf_baseball_launcher"},
     { "predicate": { "custom_model_data": 301 }, "model": "minecraft:item/custom/cosmetics/cosmetic_pnf_rocket"}
   ]
