@@ -2,8 +2,8 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "beacon/item/shoulder_pets/shoulder_pet_briar_beacon",
-		"1": "beacon/item/shoulder_pets/shoulder_pet_briar",
-		"2": "beacon/item/shoulder_pets/shoulder_pet_briar_pumpkin",
+		"1": "beacon/item/shoulder_pets/shoulder_pet_briar_pumpkin",
+		"2": "beacon/item/shoulder_pets/shoulder_pet_briar_pumpkin_hat",
 		"particle": "beacon/item/shoulder_pets/shoulder_pet_briar_beacon"
 	},
 	"elements": [
