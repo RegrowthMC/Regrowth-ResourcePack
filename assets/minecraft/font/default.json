@@ -19,6 +19,7 @@
         {"file":"beacon/gui/biome_bees.png","chars":["\ue301"],"height":256,"ascent":13,"type":"bitmap"},
         {"file":"beacon/gui/activity_rewarder.png","chars":["\ue302"],"height":256,"ascent":15,"type":"bitmap"},
         {"file":"beacon/gui/wallet.png","chars":["\ue303"],"height":256,"ascent":13,"type":"bitmap"},
-        {"file":"beacon/gui/pixel.png","chars":["\ue231"],"height":-3,"ascent":-2000,"type":"bitmap"}
-    ]    
+        {"file":"beacon/gui/pixel.png","chars":["\ue231"],"height":-3,"ascent":-2000,"type":"bitmap"},
+        {"file":"beacon/emoji/cursor.png","chars":["\ue700"],"height":10, "ascent":9,"type":"bitmap"}
+    ]
 }
