@@ -1,9 +1,8 @@
 {
-    "sources": 
-    [
+    "sources": [
         {"type":"directory","source":"block_variants","prefix":"block_variants/"},
         {"type":"directory","source":"beacon","prefix":"beacon/"},
-        {"type":"directory","source":"skins","prefix":"skins/"},
-        {"type":"directory","source":"custom","prefix":"custom/"}
+        {"type":"directory","source":"plugins","prefix":"plugins/"},
+        {"type":"directory","source":"skins","prefix":"skins/"}
     ]
 }

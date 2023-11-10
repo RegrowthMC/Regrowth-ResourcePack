@@ -4,6 +4,6 @@
     "layer0": "minecraft:item/item_frame"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "item/custom/glass_item_frame"}
+    { "predicate": { "custom_model_data": 1 }, "model": "item/beacon/global/item/glass_item_frame"}
   ]
 }

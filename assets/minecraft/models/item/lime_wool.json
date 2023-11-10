@@ -1,6 +1,6 @@
 {
     "parent": "minecraft:block/lime_wool",
     "overrides": [
-        { "predicate": { "custom_model_data": 1 }, "model": "item/gui/buttons/button_pets_on"}
+        { "predicate": { "custom_model_data": 1 }, "model": "item/beacon/global/gui/follower_pets/button_pet_enabled"}
 	]
 }

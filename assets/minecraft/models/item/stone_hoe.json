@@ -4,6 +4,6 @@
     "layer0": "item/stone_hoe"
   },
   "overrides": [
-    { "predicate": {"custom_model_data": 100}, "model": "item/custom/rotation_wrench" }
+    { "predicate": {"custom_model_data": 100}, "model": "item/plugins/tweakin/rotation_wrench" }
   ]
 }

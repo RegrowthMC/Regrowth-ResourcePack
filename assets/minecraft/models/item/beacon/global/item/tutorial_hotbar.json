@@ -1,0 +1,12 @@
+{
+    "parent": "item/gui/3x3",
+    "textures": {
+        "layer0": "beacon/global/item/tutorial_hotbar"
+    },
+    "display": {
+        "gui": {
+            "translation": [-20.5,0,0],
+            "scale": [3,3,3]
+        }
+    }
+}

@@ -7,6 +7,6 @@
     
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1 }, "model": "custom:item/empty_can"}
+    { "predicate": { "custom_model_data": 1 }, "model": "item/beacon/global/item/cosmetic/gadget/tin_can"}
   ]
 }

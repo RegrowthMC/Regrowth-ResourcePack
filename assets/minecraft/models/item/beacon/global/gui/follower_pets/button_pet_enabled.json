@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "beacon/global/gui/follower_pets/button/pet_enabled"
+  }
+}
