@@ -1,9 +1,9 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "beacon/global/item/cosmetic/hat/trash_can/side",
+		"0": "beacon/global/item/cosmetic/hat/trash_can/lid",
 		"1": "block/iron_block",
-		"particle": "beacon/global/item/cosmetic/hat/trash_can/side"
+		"particle": "beacon/global/item/cosmetic/hat/trash_can/lid"
 	},
 	"elements": [
 		{
