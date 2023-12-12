@@ -47,6 +47,7 @@
     { "predicate": { "custom_model_data": 4009 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/pansexual"},
     { "predicate": { "custom_model_data": 4010 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/trans"},
 
-    { "predicate": { "custom_model_data": 10001 }, "model": "item/beacon/global/item/chess_board"}
+    { "predicate": { "custom_model_data": 10001 }, "model": "item/beacon/global/item/chess_board"},
+    { "predicate": { "custom_model_data": 10002 }, "model": "item/beacon/global/block/notice_board"}
   ]
 }
