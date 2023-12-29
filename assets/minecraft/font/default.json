@@ -21,6 +21,6 @@
         {"file":"beacon/global/gui/wallet.png","chars":["\ue303"],"height":256,"ascent":13,"type":"bitmap"},
         {"file":"beacon/pixel.png","chars":["\ue231"],"height":-3,"ascent":-2000,"type":"bitmap"},
         {"file":"beacon/global/emoji/cursor.png","chars":["\ue700"],"height":10, "ascent":9,"type":"bitmap"},
-        {"file":"beacon/global/emoji/chat-bubble.png","chars":["\ue701"],"height":10, "ascent":9,"type":"bitmap"}
+        {"file":"beacon/global/emoji/chat-bubble.png","chars":["\ue701"],"height":10, "ascent":8,"type":"bitmap"}
     ]
 }
