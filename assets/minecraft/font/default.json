@@ -21,6 +21,26 @@
         {"file":"beacon/global/gui/wallet.png","chars":["\ue303"],"height":256,"ascent":13,"type":"bitmap"},
         {"file":"beacon/pixel.png","chars":["\ue231"],"height":-3,"ascent":-2000,"type":"bitmap"},
         {"file":"beacon/global/emoji/cursor.png","chars":["\ue700"],"height":10, "ascent":9,"type":"bitmap"},
-        {"file":"beacon/global/emoji/chat-bubble.png","chars":["\ue701"],"height":10, "ascent":8,"type":"bitmap"}
+        {"file":"beacon/global/emoji/chat-bubble.png","chars":["\ue701"],"height":10, "ascent":8,"type":"bitmap"},
+        {"file":"beacon/global/emoji/confused.png","chars":["\ue702"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/crown.png","chars":["\ue703"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/frown.png","chars":["\ue704"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/heart_eye.png","chars":["\ue705"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/money_eyes.png","chars":["\ue706"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/party_popper.png","chars":["\ue707"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/plant_sprout.png","chars":["\ue708"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/pleading.png","chars":["\ue709"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/present.png","chars":["\ue710"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/rainbow.png","chars":["\ue711"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/scared.png","chars":["\ue712"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/shocked.png","chars":["\ue713"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/single_tear.png","chars":["\ue714"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/slight_smile.png","chars":["\ue715"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/snail.png","chars":["\ue716"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/sniffer_egg.png","chars":["\ue717"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/sob.png","chars":["\ue718"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/sparkles.png","chars":["\ue719"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/sun_hat.png","chars":["\ue720"],"height":10, "ascent":9,"type":"bitmap"},
+        {"file":"beacon/global/emoji/three_hearts.png","chars":["\ue721"],"height":10, "ascent":9,"type":"bitmap"}
     ]
 }
