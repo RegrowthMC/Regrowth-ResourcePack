@@ -4,6 +4,26 @@
         "layer0": "minecraft:item/name_tag"
     },
     "overrides": [
+        { "predicate": { "custom_model_data": 100 }, "model": "item/beacon/global/item/emoji/confused"},
+        { "predicate": { "custom_model_data": 101 }, "model": "item/beacon/global/item/emoji/crown"},
+        { "predicate": { "custom_model_data": 102 }, "model": "item/beacon/global/item/emoji/frown"},
+        { "predicate": { "custom_model_data": 103 }, "model": "item/beacon/global/item/emoji/heart_eye"},
+        { "predicate": { "custom_model_data": 104 }, "model": "item/beacon/global/item/emoji/money_eyes"},
+        { "predicate": { "custom_model_data": 105 }, "model": "item/beacon/global/item/emoji/party_popper"},
+        { "predicate": { "custom_model_data": 106 }, "model": "item/beacon/global/item/emoji/plant_sprout"},
+        { "predicate": { "custom_model_data": 107 }, "model": "item/beacon/global/item/emoji/pleading"},
+        { "predicate": { "custom_model_data": 108 }, "model": "item/beacon/global/item/emoji/present"},
+        { "predicate": { "custom_model_data": 109 }, "model": "item/beacon/global/item/emoji/rainbow"},
+        { "predicate": { "custom_model_data": 110 }, "model": "item/beacon/global/item/emoji/scared"},
+        { "predicate": { "custom_model_data": 111 }, "model": "item/beacon/global/item/emoji/shocked"},
+        { "predicate": { "custom_model_data": 112 }, "model": "item/beacon/global/item/emoji/single_tear"},
+        { "predicate": { "custom_model_data": 113 }, "model": "item/beacon/global/item/emoji/slight_smile"},
+        { "predicate": { "custom_model_data": 114 }, "model": "item/beacon/global/item/emoji/snail"},
+        { "predicate": { "custom_model_data": 115 }, "model": "item/beacon/global/item/emoji/sniffer_egg"},
+        { "predicate": { "custom_model_data": 116 }, "model": "item/beacon/global/item/emoji/sob"},
+        { "predicate": { "custom_model_data": 117 }, "model": "item/beacon/global/item/emoji/sparkles"},
+        { "predicate": { "custom_model_data": 118 }, "model": "item/beacon/global/item/emoji/sun_hat"},
+        { "predicate": { "custom_model_data": 119 }, "model": "item/beacon/global/item/emoji/three_hearts"},
         { "predicate": { "custom_model_data": 1000 }, "model": "item/beacon/global/item/invisible_item"}
 	]
 }
