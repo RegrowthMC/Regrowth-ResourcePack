@@ -36,7 +36,7 @@
     { "predicate": { "custom_model_data": 3005 }, "model": "item/beacon/global/item/cosmetic/gadget/tin_can"},
     { "predicate": { "custom_model_data": 3006 }, "model": "item/beacon/global/item/cosmetic/gadget/vr_controller"},
 
-    { "predicate": { "custom_model_data": 4001 }, "model": "item/beacon/global/item/cosmetic/ducky_floatie"},
+    { "predicate": { "custom_model_data": 4001 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/ducky_floatie"},
     { "predicate": { "custom_model_data": 4002 }, "model": "item/beacon/global/item/cosmetic/pnf_rocket"},
     { "predicate": { "custom_model_data": 4003 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/arm_floatie"},
     { "predicate": { "custom_model_data": 4004 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/bisexual"},
@@ -46,6 +46,9 @@
     { "predicate": { "custom_model_data": 4008 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/nonbinary"},
     { "predicate": { "custom_model_data": 4009 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/pansexual"},
     { "predicate": { "custom_model_data": 4010 }, "model": "item/beacon/global/item/cosmetic/arm_floatie/trans"},
+    { "predicate": { "custom_model_data": 4011 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/greywhite_ducky_floatie"},
+    { "predicate": { "custom_model_data": 4012 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/mallard_ducky_floatie"},
+    { "predicate": { "custom_model_data": 4013 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/white_ducky_floatie"},
 
     { "predicate": { "custom_model_data": 10001 }, "model": "item/beacon/global/item/chess_board"},
     { "predicate": { "custom_model_data": 10002 }, "model": "item/beacon/global/block/notice_board"}
