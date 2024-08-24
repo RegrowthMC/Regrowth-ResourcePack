@@ -49,6 +49,7 @@
     { "predicate": { "custom_model_data": 4011 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/greywhite_ducky_floatie"},
     { "predicate": { "custom_model_data": 4012 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/mallard_ducky_floatie"},
     { "predicate": { "custom_model_data": 4013 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/white_ducky_floatie"},
+    { "predicate": { "custom_model_data": 4014 }, "model": "item/beacon/global/item/cosmetic/duck_floatie/giraffe_ducky_floatie"},
 
     { "predicate": { "custom_model_data": 10001 }, "model": "item/beacon/global/item/chess_board"},
     { "predicate": { "custom_model_data": 10002 }, "model": "item/beacon/global/block/notice_board"}
