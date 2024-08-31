@@ -56,8 +56,10 @@ jobs:
         run: |
           git add output/release.zip
           git add output/adjusted_bedrock.zip
-          git add output/Pack Files.zip
+          git add output/bedrock/pack.mcpack
+          git add output/bedrock/geyser_mappings.json
           git commit -m "Updated release.zip" -- output/release.zip
           git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
-          git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
+          git commit -m "Updated pack.mcpack" -- output/bedrock/pack.mcpack
+          git commit -m "Updated geyser_mappings.json" -- output/bedrock/geyser_mappings.json
           git push --force
