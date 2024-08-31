@@ -50,7 +50,7 @@ jobs:
           ./converter.sh ../output/adjusted_bedrock.zip -r "true"
           cp target/packaged/geyser_resources.mcpack ../output/bedrock/pack.mcpack
           cp target/geyser_mappings.json ../output/bedrock/geyser_mappings.json
-          cd..
+          cd ..
 
       - name: Push archives
         run: |
