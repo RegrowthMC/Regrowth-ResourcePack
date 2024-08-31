@@ -1,26 +1,45 @@
-name: Create Archive
+name: Create Archives
 on: [push]
 jobs:
-  build:
+  archive-release:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: pull latest and remove old file from repo
-      run: |
-        git config --global user.name "OakLoaf"
-        git config --global user.email "${{ secrets.EMAIL }}"
-        git config pull.rebase false
-        git pull
-        rm -f release.zip
-    - name: Archive Release
-      uses: thedoctor0/zip-release@master
-      with:
-        token: ${{ secrets.GITHUB_TOKEN }}
-        filename: 'release.zip'
-        exclusions: '*.git* /*node_modules/* .editorconfig'
-    - name: push changes to remote
-      run: |
-        git add -A
-        git commit -m "Updated release.zip"
-        git push --force
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Pull latest
+        run: |
+          git config --global user.name "OakLoaf"
+          git config --global user.email "${{ secrets.EMAIL }}"
+          git config pull.rebase false
+          git pull
+          mkdir -p output
+
+      - name: Remove old outputs
+        run: |
+          rm -f output/release.zip
+          rm -f output/adjusted_bedrock.zip
+
+      - name: Archive java
+        run: |
+          cd pack
+          zip -r ../output/release.zip ./*
+          cd ..
+
+      - name: Replace model files
+        run: |
+          cp -r bedrock_overrides/* pack/
+
+      - name: Archive adjusted bedrock
+        run: |
+          cd pack
+          zip -r ../output/adjusted_bedrock.zip ./*
+          cd ..
+
+      - name: Push archives
+        run: |
+          git add output/release.zip
+          git add output/adjusted_bedrock.zip
+          git commit -m "Updated release.zip" -- output/release.zip
+          git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
+          git push --force
