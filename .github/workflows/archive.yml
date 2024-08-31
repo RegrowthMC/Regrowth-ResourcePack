@@ -36,6 +36,11 @@ jobs:
           zip -r ../output/adjusted_bedrock.zip ./*
           cd ..
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y moreutils zip
+          yarn global add spritesheet-js
+
       - name: Convert bedrock pack
         run: |
           mkdir -p converting
