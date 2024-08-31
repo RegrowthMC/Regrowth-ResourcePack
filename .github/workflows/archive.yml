@@ -15,6 +15,11 @@ jobs:
           git pull
           mkdir -p output/bedrock
 
+      - name: Install dependencies
+        run: |
+          sudo apt-get install -y moreutils zip
+          yarn global add spritesheet-js
+
       - name: Remove old outputs
         run: |
           rm -f output/release.zip
@@ -36,11 +41,6 @@ jobs:
           zip -r ../output/adjusted_bedrock.zip ./*
           cd ..
 
-      - name: Install dependencies
-        run: |
-          sudo apt-get install -y moreutils zip
-          yarn global add spritesheet-js
-
       - name: Convert bedrock pack
         run: |
           mkdir -p converting
@@ -55,11 +55,9 @@ jobs:
       - name: Push archives
         run: |
           git add output/release.zip
-          git add output/adjusted_bedrock.zip
           git add output/bedrock/pack.mcpack
           git add output/bedrock/geyser_mappings.json
           git commit -m "Updated release.zip" -- output/release.zip
-          git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
           git commit -m "Updated pack.mcpack" -- output/bedrock/pack.mcpack
           git commit -m "Updated geyser_mappings.json" -- output/bedrock/geyser_mappings.json
           git push --force
