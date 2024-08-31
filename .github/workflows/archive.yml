@@ -36,10 +36,23 @@ jobs:
           zip -r ../output/adjusted_bedrock.zip ./*
           cd ..
 
+      - name: Convert bedrock pack
+        run: |
+          mkdir -p converting
+          cp converter.sh converting/
+          cd converting
+          chmod +x converter.sh
+          ./converter.sh ../output/adjusted_bedrock.zip -r "true"
+          cp target/packaged/geyser_resources.mcpack ../output/bedrock/pack.mcpack
+          cp target/geyser_mappings.json ../output/bedrock/geyser_mappings.json
+          cd..
+
       - name: Push archives
         run: |
           git add output/release.zip
           git add output/adjusted_bedrock.zip
+          git add output/Pack Files.zip
           git commit -m "Updated release.zip" -- output/release.zip
+          git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
           git commit -m "Updated adjusted_bedrock.zip" -- output/adjusted_bedrock.zip
           git push --force
