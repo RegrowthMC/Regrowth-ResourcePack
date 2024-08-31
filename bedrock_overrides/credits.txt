@@ -1,0 +1,1 @@
+Java to Bedrock pack conversion is handled by Kas-tle's java2bedrock converter: https://github.com/Kas-tle/java2bedrock.sh
