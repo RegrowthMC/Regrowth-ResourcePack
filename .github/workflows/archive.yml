@@ -31,6 +31,12 @@ jobs:
           zip -r ../output/release.zip ./*
           cd ..
 
+      - name: Push java archive
+        run: |
+          git add output/release.zip
+          git commit -m "Updated release.zip" --allow-empty -- output/release.zip
+          git push --force
+
       - name: Replace model files
         run: |
           cp -r bedrock_overrides/* pack/
@@ -52,12 +58,10 @@ jobs:
           cp target/geyser_mappings.json ../output/bedrock/geyser_mappings.json
           cd ..
 
-      - name: Push archives
+      - name: Push bedrock archives
         run: |
-          git add output/release.zip
           git add output/bedrock/pack.mcpack
           git add output/bedrock/geyser_mappings.json
-          git commit -m "Updated release.zip" --allow-empty -- output/release.zip
           git commit -m "Updated pack.mcpack" --allow-empty -- output/bedrock/pack.mcpack
           git commit -m "Updated geyser_mappings.json" --allow-empty -- output/bedrock/geyser_mappings.json
           git push --force
