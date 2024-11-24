@@ -369,6 +369,13 @@
         "custom_model_data": 4014
       },
       {
+        "name": "gmdl_4f1c979",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 4015
+      },
+      {
         "name": "gmdl_06e9a83",
         "allow_offhand": true,
         "icon": "leather_horse_armor",
