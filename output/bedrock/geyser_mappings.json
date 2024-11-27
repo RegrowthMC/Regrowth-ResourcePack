@@ -46,7 +46,8 @@
       {
         "name": "gmdl_88e80ff",
         "allow_offhand": true,
-        "icon": "gmdl_88e80ff",
+        "icon": "shovel",
+        "frame": 3,
         "custom_model_data": 1
       }
     ],
@@ -54,7 +55,8 @@
       {
         "name": "gmdl_3c0a204",
         "allow_offhand": true,
-        "icon": "gmdl_3c0a204",
+        "icon": "hoe",
+        "frame": 2,
         "custom_model_data": 102
       }
     ],
@@ -62,7 +64,8 @@
       {
         "name": "gmdl_d4ea907",
         "allow_offhand": true,
-        "icon": "gmdl_d4ea907",
+        "icon": "item_frame",
+        "frame": 0,
         "custom_model_data": 1
       }
     ],
@@ -150,6 +153,76 @@
         "icon": "leather_horse_armor",
         "frame": 0,
         "custom_model_data": 1012
+      },
+      {
+        "name": "gmdl_400ec98",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1013
+      },
+      {
+        "name": "gmdl_62f3480",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1014
+      },
+      {
+        "name": "gmdl_d15d47b",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1015
+      },
+      {
+        "name": "gmdl_14b8747",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1016
+      },
+      {
+        "name": "gmdl_ec8953f",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1017
+      },
+      {
+        "name": "gmdl_607728f",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1018
+      },
+      {
+        "name": "gmdl_d47630b",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1019
+      },
+      {
+        "name": "gmdl_f6cfd96",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1020
+      },
+      {
+        "name": "gmdl_70a7f48",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1021
+      },
+      {
+        "name": "gmdl_6843e56",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1022
       },
       {
         "name": "gmdl_912f766",
@@ -401,7 +474,8 @@
       {
         "name": "gmdl_9735636",
         "allow_offhand": true,
-        "icon": "gmdl_9735636",
+        "icon": "camera",
+        "frame": 0,
         "custom_model_data": 1
       }
     ],
@@ -409,121 +483,141 @@
       {
         "name": "gmdl_a01095d",
         "allow_offhand": true,
-        "icon": "gmdl_a01095d",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 100
       },
       {
         "name": "gmdl_d01d435",
         "allow_offhand": true,
-        "icon": "gmdl_d01d435",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 101
       },
       {
         "name": "gmdl_ed08033",
         "allow_offhand": true,
-        "icon": "gmdl_ed08033",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 102
       },
       {
         "name": "gmdl_c0ceaeb",
         "allow_offhand": true,
-        "icon": "gmdl_c0ceaeb",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 103
       },
       {
         "name": "gmdl_a9bec88",
         "allow_offhand": true,
-        "icon": "gmdl_a9bec88",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 104
       },
       {
         "name": "gmdl_c4562c0",
         "allow_offhand": true,
-        "icon": "gmdl_c4562c0",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 105
       },
       {
         "name": "gmdl_e0d874d",
         "allow_offhand": true,
-        "icon": "gmdl_e0d874d",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 106
       },
       {
         "name": "gmdl_239109c",
         "allow_offhand": true,
-        "icon": "gmdl_239109c",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 107
       },
       {
         "name": "gmdl_c042079",
         "allow_offhand": true,
-        "icon": "gmdl_c042079",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 108
       },
       {
         "name": "gmdl_d8e34e0",
         "allow_offhand": true,
-        "icon": "gmdl_d8e34e0",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 109
       },
       {
         "name": "gmdl_fce64e2",
         "allow_offhand": true,
-        "icon": "gmdl_fce64e2",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 110
       },
       {
         "name": "gmdl_02c8edb",
         "allow_offhand": true,
-        "icon": "gmdl_02c8edb",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 111
       },
       {
         "name": "gmdl_2da4d27",
         "allow_offhand": true,
-        "icon": "gmdl_2da4d27",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 112
       },
       {
         "name": "gmdl_8be31d8",
         "allow_offhand": true,
-        "icon": "gmdl_8be31d8",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 113
       },
       {
         "name": "gmdl_63ec780",
         "allow_offhand": true,
-        "icon": "gmdl_63ec780",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 114
       },
       {
         "name": "gmdl_8548830",
         "allow_offhand": true,
-        "icon": "gmdl_8548830",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 115
       },
       {
         "name": "gmdl_2ee9781",
         "allow_offhand": true,
-        "icon": "gmdl_2ee9781",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 116
       },
       {
         "name": "gmdl_009f460",
         "allow_offhand": true,
-        "icon": "gmdl_009f460",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 117
       },
       {
         "name": "gmdl_ccdcd0b",
         "allow_offhand": true,
-        "icon": "gmdl_ccdcd0b",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 118
       },
       {
         "name": "gmdl_d5a1818",
         "allow_offhand": true,
-        "icon": "gmdl_d5a1818",
+        "icon": "name_tag",
+        "frame": 0,
         "custom_model_data": 119
       },
       {
@@ -631,199 +725,232 @@
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "gmdl_5e0eb4a",
+        "icon": "recovery_compass",
+        "frame": 0,
         "custom_model_data": 1
       }
     ],
@@ -831,7 +958,8 @@
       {
         "name": "gmdl_033fb00",
         "allow_offhand": true,
-        "icon": "gmdl_033fb00",
+        "icon": "camera",
+        "frame": 0,
         "custom_model_data": 1
       }
     ],
@@ -839,13 +967,15 @@
       {
         "name": "gmdl_d43a519",
         "allow_offhand": true,
-        "icon": "gmdl_d43a519",
+        "icon": "slimeball",
+        "frame": 0,
         "custom_model_data": 103
       },
       {
         "name": "gmdl_a4189c2",
         "allow_offhand": true,
-        "icon": "gmdl_a4189c2",
+        "icon": "slimeball",
+        "frame": 0,
         "custom_model_data": 104
       }
     ],
@@ -862,7 +992,8 @@
       {
         "name": "gmdl_0015808",
         "allow_offhand": true,
-        "icon": "gmdl_0015808",
+        "icon": "hoe",
+        "frame": 1,
         "custom_model_data": 100
       }
     ],
