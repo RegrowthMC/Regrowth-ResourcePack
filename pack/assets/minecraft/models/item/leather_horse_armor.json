@@ -23,9 +23,8 @@
     { "predicate": { "custom_model_data": 1017 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_fox_hat"},
     { "predicate": { "custom_model_data": 1018 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_koala_hat"},
     { "predicate": { "custom_model_data": 1019 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_mouse_hat"},
-    { "predicate": { "custom_model_data": 1020 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_penguin_hat"},
-    { "predicate": { "custom_model_data": 1021 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_reindeer_hat"},
-    { "predicate": { "custom_model_data": 1022 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_unicorn_hat"},
+    { "predicate": { "custom_model_data": 1020 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_reindeer_hat"},
+    { "predicate": { "custom_model_data": 1021 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_unicorn_hat"},
 
     { "predicate": { "custom_model_data": 2001 }, "model": "item/beacon/global/item/cosmetic/shoulder_pet/briar/briar"},
     { "predicate": { "custom_model_data": 2002 }, "model": "item/beacon/global/item/cosmetic/shoulder_pet/briar/briar_pumpkin"},
