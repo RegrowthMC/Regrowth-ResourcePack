@@ -46,8 +46,7 @@
       {
         "name": "gmdl_88e80ff",
         "allow_offhand": true,
-        "icon": "shovel",
-        "frame": 3,
+        "icon": "gmdl_88e80ff",
         "custom_model_data": 1
       }
     ],
@@ -55,8 +54,7 @@
       {
         "name": "gmdl_3c0a204",
         "allow_offhand": true,
-        "icon": "hoe",
-        "frame": 2,
+        "icon": "gmdl_3c0a204",
         "custom_model_data": 102
       }
     ],
@@ -64,8 +62,7 @@
       {
         "name": "gmdl_d4ea907",
         "allow_offhand": true,
-        "icon": "item_frame",
-        "frame": 0,
+        "icon": "gmdl_d4ea907",
         "custom_model_data": 1
       }
     ],
@@ -216,6 +213,20 @@
         "icon": "leather_horse_armor",
         "frame": 0,
         "custom_model_data": 1021
+      },
+      {
+        "name": "gmdl_6843e56",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1022
+      },
+      {
+        "name": "gmdl_9c3f87f",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1023
       },
       {
         "name": "gmdl_912f766",
@@ -467,8 +478,7 @@
       {
         "name": "gmdl_9735636",
         "allow_offhand": true,
-        "icon": "camera",
-        "frame": 0,
+        "icon": "gmdl_9735636",
         "custom_model_data": 1
       }
     ],
@@ -476,141 +486,121 @@
       {
         "name": "gmdl_a01095d",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_a01095d",
         "custom_model_data": 100
       },
       {
         "name": "gmdl_d01d435",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_d01d435",
         "custom_model_data": 101
       },
       {
         "name": "gmdl_ed08033",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_ed08033",
         "custom_model_data": 102
       },
       {
         "name": "gmdl_c0ceaeb",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_c0ceaeb",
         "custom_model_data": 103
       },
       {
         "name": "gmdl_a9bec88",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_a9bec88",
         "custom_model_data": 104
       },
       {
         "name": "gmdl_c4562c0",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_c4562c0",
         "custom_model_data": 105
       },
       {
         "name": "gmdl_e0d874d",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_e0d874d",
         "custom_model_data": 106
       },
       {
         "name": "gmdl_239109c",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_239109c",
         "custom_model_data": 107
       },
       {
         "name": "gmdl_c042079",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_c042079",
         "custom_model_data": 108
       },
       {
         "name": "gmdl_d8e34e0",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_d8e34e0",
         "custom_model_data": 109
       },
       {
         "name": "gmdl_fce64e2",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_fce64e2",
         "custom_model_data": 110
       },
       {
         "name": "gmdl_02c8edb",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_02c8edb",
         "custom_model_data": 111
       },
       {
         "name": "gmdl_2da4d27",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_2da4d27",
         "custom_model_data": 112
       },
       {
         "name": "gmdl_8be31d8",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_8be31d8",
         "custom_model_data": 113
       },
       {
         "name": "gmdl_63ec780",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_63ec780",
         "custom_model_data": 114
       },
       {
         "name": "gmdl_8548830",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_8548830",
         "custom_model_data": 115
       },
       {
         "name": "gmdl_2ee9781",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_2ee9781",
         "custom_model_data": 116
       },
       {
         "name": "gmdl_009f460",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_009f460",
         "custom_model_data": 117
       },
       {
         "name": "gmdl_ccdcd0b",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_ccdcd0b",
         "custom_model_data": 118
       },
       {
         "name": "gmdl_d5a1818",
         "allow_offhand": true,
-        "icon": "name_tag",
-        "frame": 0,
+        "icon": "gmdl_d5a1818",
         "custom_model_data": 119
       },
       {
@@ -718,232 +708,199 @@
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       },
       {
         "name": "gmdl_5e0eb4a",
         "allow_offhand": true,
-        "icon": "recovery_compass",
-        "frame": 0,
+        "icon": "gmdl_5e0eb4a",
         "custom_model_data": 1
       }
     ],
@@ -951,8 +908,7 @@
       {
         "name": "gmdl_033fb00",
         "allow_offhand": true,
-        "icon": "camera",
-        "frame": 0,
+        "icon": "gmdl_033fb00",
         "custom_model_data": 1
       }
     ],
@@ -960,15 +916,13 @@
       {
         "name": "gmdl_d43a519",
         "allow_offhand": true,
-        "icon": "slimeball",
-        "frame": 0,
+        "icon": "gmdl_d43a519",
         "custom_model_data": 103
       },
       {
         "name": "gmdl_a4189c2",
         "allow_offhand": true,
-        "icon": "slimeball",
-        "frame": 0,
+        "icon": "gmdl_a4189c2",
         "custom_model_data": 104
       }
     ],
@@ -985,8 +939,7 @@
       {
         "name": "gmdl_0015808",
         "allow_offhand": true,
-        "icon": "hoe",
-        "frame": 1,
+        "icon": "gmdl_0015808",
         "custom_model_data": 100
       }
     ],
