@@ -4,11 +4,11 @@
     "layer0": "minecraft:item/leather_horse_armor"
   },
   "overrides": [
-    { "predicate": { "custom_model_data": 1001 }, "model": "item/beacon/global/item/cosmetic/hat/bear_ears/orange_yellow"},
-    { "predicate": { "custom_model_data": 1002 }, "model": "item/beacon/global/item/cosmetic/hat/bear_ears/white_blue"},
-    { "predicate": { "custom_model_data": 1003 }, "model": "item/beacon/global/item/cosmetic/hat/bunny_ears/orange_yellow"},
-    { "predicate": { "custom_model_data": 1004 }, "model": "item/beacon/global/item/cosmetic/hat/cat_ears/orange_yellow"},
-    { "predicate": { "custom_model_data": 1005 }, "model": "item/beacon/global/item/cosmetic/hat/cat_ears/nyan_cat"},
+    { "predicate": { "custom_model_data": 1001 }, "model": "item/beacon/global/item/cosmetic/hat/bear_ears/bear_ears_brown_yellow"},
+    { "predicate": { "custom_model_data": 1002 }, "model": "item/beacon/global/item/cosmetic/hat/bear_ears/bear_ears_white_blue"},
+    { "predicate": { "custom_model_data": 1003 }, "model": "item/beacon/global/item/cosmetic/hat/bunny_ears/bunny_ears_brown_yellow"},
+    { "predicate": { "custom_model_data": 1004 }, "model": "item/beacon/global/item/cosmetic/hat/cat_ears/cat_ears_brown_yellow"},
+    { "predicate": { "custom_model_data": 1005 }, "model": "item/beacon/global/item/cosmetic/hat/cat_ears/nyan_cat_ears"},
     { "predicate": { "custom_model_data": 1006 }, "model": "item/beacon/global/item/cosmetic/hat/top_hat/top_hat"},
     { "predicate": { "custom_model_data": 1007 }, "model": "item/beacon/global/item/cosmetic/hat/top_hat/top_hat_long"},
     { "predicate": { "custom_model_data": 1008 }, "model": "item/beacon/global/item/cosmetic/hat/pizza_box"},
@@ -25,6 +25,8 @@
     { "predicate": { "custom_model_data": 1019 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_mouse_hat"},
     { "predicate": { "custom_model_data": 1020 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_reindeer_hat"},
     { "predicate": { "custom_model_data": 1021 }, "model": "item/beacon/global/item/cosmetic/hat/christmas/christmas_unicorn_hat"},
+    { "predicate": { "custom_model_data": 1022 }, "model": "item/beacon/global/item/cosmetic/hat/bunny_ears/bunny_ears_white_blue"},
+    { "predicate": { "custom_model_data": 1023 }, "model": "item/beacon/global/item/cosmetic/hat/cat_ears/cat_ears_white_blue"},
 
     { "predicate": { "custom_model_data": 2001 }, "model": "item/beacon/global/item/cosmetic/shoulder_pet/briar/briar"},
     { "predicate": { "custom_model_data": 2002 }, "model": "item/beacon/global/item/cosmetic/shoulder_pet/briar/briar_pumpkin"},
