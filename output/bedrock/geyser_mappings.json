@@ -229,6 +229,62 @@
         "custom_model_data": 1023
       },
       {
+        "name": "gmdl_9a16c0b",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1024
+      },
+      {
+        "name": "gmdl_5f5f2e7",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1025
+      },
+      {
+        "name": "gmdl_d7ce24a",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1026
+      },
+      {
+        "name": "gmdl_2b3cefe",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1027
+      },
+      {
+        "name": "gmdl_7eca1e6",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1028
+      },
+      {
+        "name": "gmdl_791e6d0",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1029
+      },
+      {
+        "name": "gmdl_c5f6639",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1030
+      },
+      {
+        "name": "gmdl_2a5c77a",
+        "allow_offhand": true,
+        "icon": "leather_horse_armor",
+        "frame": 0,
+        "custom_model_data": 1031
+      },
+      {
         "name": "gmdl_912f766",
         "allow_offhand": true,
         "icon": "leather_horse_armor",
