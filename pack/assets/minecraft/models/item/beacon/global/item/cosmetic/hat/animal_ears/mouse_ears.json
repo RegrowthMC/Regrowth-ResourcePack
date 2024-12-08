@@ -1,0 +1,76 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"1": "beacon/global/item/cosmetic/hat/christmas/christmas_mouse_hat"
+	},
+	"elements": [
+		{
+			"from": [-3, 2, 9],
+			"to": [5, 10, 10],
+			"rotation": {"angle": 22.5, "axis": "y", "origin": [1, 6, 9.5]},
+			"faces": {
+				"north": {"uv": [2.5, 0, 4.5, 2], "texture": "#1"},
+				"east": {"uv": [4, 7.75, 4.25, 9.75], "texture": "#1"},
+				"south": {"uv": [2.5, 2, 4.5, 4], "texture": "#1"},
+				"west": {"uv": [4.25, 7.75, 4.5, 9.75], "texture": "#1"},
+				"up": {"uv": [9.75, 4.25, 7.75, 4], "texture": "#1"},
+				"down": {"uv": [9.75, 4.25, 7.75, 4.5], "texture": "#1"}
+			}
+		},
+		{
+			"from": [11, 2, 9],
+			"to": [19, 10, 10],
+			"rotation": {"angle": -22.5, "axis": "y", "origin": [15, 6, 9.5]},
+			"faces": {
+				"north": {"uv": [4.5, 0, 2.5, 2], "texture": "#1"},
+				"east": {"uv": [4.5, 7.75, 4.25, 9.75], "texture": "#1"},
+				"south": {"uv": [4.5, 2, 2.5, 4], "texture": "#1"},
+				"west": {"uv": [4.25, 7.75, 4, 9.75], "texture": "#1"},
+				"up": {"uv": [7.75, 4.25, 9.75, 4], "texture": "#1"},
+				"down": {"uv": [7.75, 4.25, 9.75, 4.5], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [75, 45, 0],
+			"translation": [0, 2.5, 0],
+			"scale": [0.375, 0.375, 0.375]
+		},
+		"firstperson_righthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 45, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"ground": {
+			"translation": [0, 3.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"gui": {
+			"rotation": [30, 225, 0],
+			"translation": [0, 0.25, 0],
+			"scale": [0.625, 0.625, 0.625]
+		},
+		"head": {
+			"translation": [0, 6.25, 0],
+			"scale": [1.6, 1.6, 1.6]
+		}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [7, -2, 0],
+			"color": 0,
+			"children": [0, 1]
+		}
+	]
+}
